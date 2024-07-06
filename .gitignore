@@ -1,0 +1,9 @@
+*.ipynb_checkpoints/
+
+PyAPD.egg-info/
+
+dist/
+
+**/__pycache__/
+
+.tmp.*
