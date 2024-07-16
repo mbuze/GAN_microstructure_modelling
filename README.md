@@ -1,4 +1,4 @@
-# Generative Adversarial Networks with applications in microstructure modelling:
+# Generative Adversarial Networks with applications in microstructure modelling
 
 ### 2024 CMIT Summer Research Internship Programme, University of Liverpool, 16-19 July 2024
 
