@@ -34,7 +34,7 @@ A gentle hands-on introducton to
 
 ## Lecture materials
 
-Lecture 1:
+Lecture 1: [Notebook](https://github.com/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_1.ipynb)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_1.ipynb?flush_cache=true) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_1.ipynb)
 
