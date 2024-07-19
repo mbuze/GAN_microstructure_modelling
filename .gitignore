@@ -9,3 +9,4 @@ dist/
 .tmp.*
 
 notebooks/prototyping/
+notebooks/homework_submissions/
