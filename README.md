@@ -38,7 +38,8 @@ Lecture 1: [Notebook](https://github.com/mbuze/GAN_microstructure_modelling/blob
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_1.ipynb?flush_cache=true) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_1.ipynb)
 
-Lecture 2:
-to come
+Lecture 2: [Notebook](https://github.com/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_2.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_2.ipynb?flush_cache=true) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbuze/GAN_microstructure_modelling/blob/main/notebooks/GANs_microstructure_modelling_2.ipynb)
 
 (Note that I am relying on [RISE extension](https://github.com/jupyterlab-contrib/rise) to turn the notebooks into slides, which requires some mild adjustments, but they should work as is on your laptops and on Google Colab)
